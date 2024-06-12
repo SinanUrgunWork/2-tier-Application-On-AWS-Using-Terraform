@@ -1,5 +1,5 @@
 ![Architecture Diagram](Architecture-Diagram.jpg)
-I deployed a robust 2-tier application on AWS, leveraging Terraform for efficient infrastructure management. Here’s a snapshot of the services and architecture:
+I deployed a  2-tier application on AWS, leveraging Terraform for efficient infrastructure management. Here’s a snapshot of the services and architecture:
 
 Amazon EC2: Handles compute with auto-scaling to adjust resources based on demand.  
 Amazon RDS & DynamoDB: Provide a relational and NoSQL database backbone, ensuring high availability and performance.  
